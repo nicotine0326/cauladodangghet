@@ -10,8 +10,8 @@ body {
 }
 .card{
     margin: 120px auto;
-    width: 320px;
-    height: 320px;
+    width: 300px;
+    height: 250px;
     background-color: #f5f5f5;
     padding: 20px;
     border-radius: 15px;
